@@ -42,4 +42,4 @@ The `TaskItem` component represents an individual task item.
 ![ov4](https://github.com/SulemanaAbu/rn-Assignment3-11355543/assets/151389012/2c701323-2335-417d-8cc8-d3fa2ceee478)
 ![ov2](https://github.com/SulemanaAbu/rn-Assignment3-11355543/assets/151389012/d2b8cb51-d2f2-4790-a7a9-ca4a8bf8bc7a)
 ![ov3](https://github.com/SulemanaAbu/rn-Assignment3-11355543/assets/151389012/28242f45-dc37-4b05-b6f3-4d1dce850ceb)
-![ov1](https://github.com/SulemanaAbu/rn-Assignment3-11355543/assets/151389012/31c49a89-af96-422c-8ec5-32271d286e5c)
+![sas1](https://github.com/SulemanaAbu/rn-Assignment3-11355543/assets/151389012/85760e9f-7922-49ed-8941-c0e4bb2b7c39)
